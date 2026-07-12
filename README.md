@@ -12,7 +12,7 @@ EADH 2026 Conference.
 
 1. `bibliography_export_2026-06-30.csv` — DH-AI Zotero bibliography (249 items).
 2. `tagging_guidelines.pdf` — instructions issued to contributors for the
-   collaborative tagging task.
+   collaborative tagging task (language: italian).
 3. `item_types.html` — distribution of items by type (interactive chart).
 4. `languages.html` — distribution of items by language (interactive chart).
    Language was taken from the Zotero `Language` field where available (173 items)
