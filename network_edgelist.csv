@@ -1,0 +1,228 @@
+source,target,distance,n_item,weight
+AI authorship,Artificial intelligence,2.0,1,0.5
+AI authorship,Natural language processing,2.0,1,0.5
+AI in archives,AI in libraries,0.5,2,2.0
+AI legal scholarship,AI literacy,4.0,1,0.25
+AI legal scholarship,Law,4.0,1,0.25
+AI legal scholarship,Regulation,4.0,1,0.25
+AI legal scholarship,Research integrity,4.0,1,0.25
+AI literacy,Cultural heritage,1.0,1,1.0
+AI literacy,Education,1.2000000000000002,2,0.8333333333333333
+AI literacy,Generative artificial intelligence,0.75,3,1.3333333333333333
+AI literacy,data literacy,3.0,1,0.3333333333333333
+AI literacy,Artificial intelligence,1.0,1,1.0
+AI literacy,Law,4.0,1,0.25
+AI literacy,Regulation,4.0,1,0.25
+AI literacy,Research integrity,4.0,1,0.25
+AI literacy,GLAM institutions,2.0,1,0.5
+AI models,Benchmarking,4.0,1,0.25
+AI models,Education,4.0,1,0.25
+AI models,Generative artificial intelligence,4.0,1,0.25
+AI models,Responsible AI,2.4000000000000004,2,0.41666666666666663
+AI models,AI systems,6.0,1,0.16666666666666666
+AI models,Artificial intelligence,6.0,1,0.16666666666666666
+AI models,Law,6.0,1,0.16666666666666666
+AI models,Regulation,6.0,1,0.16666666666666666
+AI models,Risk management,6.0,1,0.16666666666666666
+AI regulation,Copyright,4.0,1,0.25
+AI regulation,Generative artificial intelligence,4.0,1,0.25
+AI regulation,Law,4.0,1,0.25
+AI regulation,Regulation,4.0,1,0.25
+AI regulation,Artificial intelligence,4.0,1,0.25
+AI regulation,EU AI Act,4.0,1,0.25
+AI regulation,ISO standards,4.0,1,0.25
+AI regulation,Risk management,4.0,1,0.25
+AI systems,ISO standards,2.0,1,0.5
+AI systems,Risk management,1.5,2,0.6666666666666666
+AI systems,Artificial intelligence,6.0,1,0.16666666666666666
+AI systems,Law,6.0,1,0.16666666666666666
+AI systems,Regulation,6.0,1,0.16666666666666666
+AI systems,Responsible AI,6.0,1,0.16666666666666666
+AI systems,Libraries,1.0,1,1.0
+Archives,Artificial intelligence,0.8,3,1.25
+Archives,Metadata,2.0,1,0.5
+Archives,Digital humanities,2.0,1,0.5
+Archives,Cultural heritage,4.0,1,0.25
+Archives,Handwritten text recognition,4.0,1,0.25
+Archives,Libraries,2.0,2,0.5
+Archives,Generative artificial intelligence,4.0,1,0.25
+Archives,Large language models,4.0,1,0.25
+Archives,Museums,4.0,1,0.25
+Artificial intelligence,Digital libraries,1.875,2,0.5333333333333333
+Artificial intelligence,Digitisation,3.0,1,0.3333333333333333
+Artificial intelligence,Handwritten text recognition,1.2765957446808511,3,0.7833333333333333
+Artificial intelligence,ChatGPT,1.2000000000000002,2,0.8333333333333333
+Artificial intelligence,History,1.875,2,0.5333333333333333
+Artificial intelligence,Risk management,0.5714285714285714,5,1.75
+Artificial intelligence,Museums,2.0,1,0.5
+Artificial intelligence,Regulation,1.5,2,0.6666666666666666
+Artificial intelligence,Natural language processing,0.6666666666666666,2,1.5
+Artificial intelligence,Digital humanities,0.3333333333333333,4,3.0
+Artificial intelligence,Ethics,0.6666666666666666,3,1.5
+Artificial intelligence,Libraries,0.5714285714285714,4,1.75
+Artificial intelligence,Automatic transcription,1.4285714285714286,2,0.7
+Artificial intelligence,Medieval manuscripts,5.0,1,0.2
+Artificial intelligence,Dewey Decimal Classification,1.0,1,1.0
+Artificial intelligence,Cataloguing,2.0,1,0.5
+Artificial intelligence,Metadata,2.0,1,0.5
+Artificial intelligence,Philosophy,0.4,3,2.5
+Artificial intelligence,Public administration,1.0,1,1.0
+Artificial intelligence,Cultural heritage,4.0,1,0.25
+Artificial intelligence,Law,6.0,1,0.16666666666666666
+Artificial intelligence,Responsible AI,6.0,1,0.16666666666666666
+Artificial intelligence,Large language models,2.0,1,0.5
+Artificial intelligence,Research integrity,2.0,1,0.5
+Artificial intelligence,ISO standards,1.3333333333333333,2,0.75
+Artificial intelligence,Higher education,2.0,1,0.5
+Artificial intelligence,Open letter,2.0,1,0.5
+Artificial intelligence,Multidisciplinary approach,2.0,1,0.5
+Artificial intelligence,Gender bias,2.0,1,0.5
+Artificial intelligence,Narratology,2.0,1,0.5
+Artificial intelligence,Digital scholarly editions,2.0,1,0.5
+Artificial intelligence,EU AI Act,4.0,1,0.25
+Automatic transcription,Digital libraries,5.0,1,0.2
+Automatic transcription,Handwritten text recognition,5.0,1,0.2
+Automatic transcription,History,5.0,1,0.2
+Automatic transcription,Medieval manuscripts,5.0,1,0.2
+Automatic transcription,Digital scholarly editions,2.0,1,0.5
+Benchmarking,Education,4.0,1,0.25
+Benchmarking,Generative artificial intelligence,4.0,1,0.25
+Benchmarking,Responsible AI,4.0,1,0.25
+Benchmarking,Linguistics,2.0,1,0.5
+Benchmarking,Natural language processing,2.0,1,0.5
+Benchmarking,Text,1.0,1,1.0
+Benchmarking,LLM evaluation,0.6666666666666666,2,1.5
+Benchmarking,Datasets,2.0,1,0.5
+Benchmarking,Evaluation,2.0,1,0.5
+Benchmarking,Digital humanities,2.0,1,0.5
+Benchmarking,History,1.0,1,1.0
+Bias,Disability,1.2000000000000002,2,0.8333333333333333
+Bias,Large language models,0.5454545454545455,3,1.8333333333333333
+Bias,Inclusion,3.0,1,0.3333333333333333
+Cataloguing,Libraries,2.0,1,0.5
+Cataloguing,Large language models,1.0,1,1.0
+Cataloguing,ChatGPT,2.0,1,0.5
+Cataloguing,Library of Congress Subject Headings,2.0,1,0.5
+ChatGPT,History,3.0,1,0.3333333333333333
+ChatGPT,Risk management,3.0,1,0.3333333333333333
+ChatGPT,Large language models,2.0,1,0.5
+ChatGPT,Philosophy,1.0,2,1.0
+ChatGPT,Generative artificial intelligence,1.0,1,1.0
+ChatGPT,Library of Congress Subject Headings,1.0,2,1.0
+ChatGPT,Dewey Decimal Classification,2.0,1,0.5
+Copyright,Generative artificial intelligence,4.0,1,0.25
+Copyright,Law,0.8,2,1.25
+Copyright,Regulation,4.0,1,0.25
+Cultural heritage,Digitisation,4.0,1,0.25
+Cultural heritage,GLAM institutions,1.3333333333333333,2,0.75
+Cultural heritage,Generative artificial intelligence,4.0,1,0.25
+Cultural heritage,Law,4.0,1,0.25
+Cultural heritage,Handwritten text recognition,4.0,1,0.25
+Cultural heritage,Libraries,4.0,1,0.25
+Cultural heritage,Large language models,2.0,1,0.5
+Datasets,Handwritten text recognition,1.0,1,1.0
+Datasets,Evaluation,2.0,1,0.5
+Dewey Decimal Classification,Library of Congress Subject Headings,2.0,1,0.5
+Digital humanities,Machine learning,1.0,1,1.0
+Digital humanities,Large language models,2.0,1,0.5
+Digital humanities,LLM evaluation,2.0,1,0.5
+Digital libraries,Digitisation,3.0,1,0.3333333333333333
+Digital libraries,Handwritten text recognition,1.875,2,0.5333333333333333
+Digital libraries,History,5.0,1,0.2
+Digital libraries,Medieval manuscripts,5.0,1,0.2
+Digital scholarly editions,Machine learning,1.0,1,1.0
+Digital scholarly editions,Evaluation,1.0,1,1.0
+Digitisation,Handwritten text recognition,3.0,1,0.3333333333333333
+Digitisation,GLAM institutions,4.0,1,0.25
+Digitisation,Generative artificial intelligence,4.0,1,0.25
+Digitisation,Law,4.0,1,0.25
+Disability,Large language models,1.2000000000000002,2,0.8333333333333333
+Disability,Inclusion,3.0,1,0.3333333333333333
+EU AI Act,ISO standards,4.0,1,0.25
+EU AI Act,Risk management,4.0,1,0.25
+EU AI Act,Law,1.0,1,1.0
+Education,Generative artificial intelligence,0.4137931034482759,6,2.4166666666666665
+Education,data literacy,1.2000000000000002,2,0.8333333333333333
+Education,Responsible AI,4.0,1,0.25
+Education,Higher education,2.0,1,0.5
+Education,Ethics,3.0,1,0.3333333333333333
+Education,Risk management,3.0,1,0.3333333333333333
+Epigraphy,Machine learning,0.5,2,2.0
+Ethics,Philosophy,0.6666666666666666,2,1.5
+Ethics,Technological humanism,0.6666666666666666,2,1.5
+Ethics,Libraries,1.0,2,1.0
+Ethics,Generative artificial intelligence,1.2000000000000002,2,0.8333333333333333
+Ethics,Risk management,3.0,1,0.3333333333333333
+Ethics,Multidisciplinary approach,2.0,1,0.5
+Ethics,Large language models,2.0,1,0.5
+GLAM institutions,Generative artificial intelligence,1.3333333333333333,2,0.75
+GLAM institutions,Law,4.0,1,0.25
+GLAM institutions,Large language models,2.0,1,0.5
+Gender bias,Narratology,2.0,1,0.5
+Generative artificial intelligence,Law,2.0,2,0.5
+Generative artificial intelligence,data literacy,1.2000000000000002,2,0.8333333333333333
+Generative artificial intelligence,Regulation,4.0,1,0.25
+Generative artificial intelligence,Responsible AI,4.0,1,0.25
+Generative artificial intelligence,Higher education,2.0,1,0.5
+Generative artificial intelligence,Large language models,0.5714285714285714,3,1.75
+Generative artificial intelligence,Libraries,4.0,1,0.25
+Generative artificial intelligence,Museums,4.0,1,0.25
+Generative artificial intelligence,Risk management,3.0,1,0.3333333333333333
+Generative artificial intelligence,Multidisciplinary approach,2.0,1,0.5
+Generative artificial intelligence,Text,2.0,1,0.5
+Graphematics,Handwritten text recognition,2.0,1,0.5
+Graphematics,Machine learning,0.6666666666666666,2,1.5
+Handwritten text recognition,Medieval manuscripts,1.4285714285714286,2,0.7
+Handwritten text recognition,Metadata,2.0,1,0.5
+Handwritten text recognition,Machine learning,0.6666666666666666,2,1.5
+Handwritten text recognition,History,1.4285714285714286,2,0.7
+Handwritten text recognition,Libraries,4.0,1,0.25
+Handwritten text recognition,LLM evaluation,2.0,1,0.5
+Higher education,Open letter,2.0,1,0.5
+History,Risk management,3.0,1,0.3333333333333333
+History,History of digital humanities,3.0,1,0.3333333333333333
+History,Natural language processing,1.2000000000000002,2,0.8333333333333333
+History,digital lexicography,1.2000000000000002,2,0.8333333333333333
+History,Medieval manuscripts,5.0,1,0.2
+History,LLM evaluation,2.0,1,0.5
+History of digital humanities,Philology,2.0,1,0.5
+History of digital humanities,Philosophy,0.6666666666666666,2,1.5
+History of digital humanities,Natural language processing,3.0,1,0.3333333333333333
+History of digital humanities,digital lexicography,3.0,1,0.3333333333333333
+ISO standards,Risk management,0.8,3,1.25
+ISO standards,Responsible AI,1.0,1,1.0
+Inclusion,Large language models,0.75,2,1.3333333333333333
+LLM evaluation,Large language models,2.0,1,0.5
+LLM evaluation,Philosophy,2.0,1,0.5
+Large language models,Machine learning,2.0,1,0.5
+Large language models,Social sciences,2.0,1,0.5
+Large language models,Philosophy,0.3333333333333333,4,3.0
+Large language models,Memorization,1.0,2,1.0
+Large language models,Ontologies,1.0,2,1.0
+Large language models,Natural language processing,1.0,1,1.0
+Large language models,Libraries,4.0,1,0.25
+Large language models,Museums,4.0,1,0.25
+Law,Regulation,0.46153846153846156,5,2.1666666666666665
+Law,Public administration,2.0,1,0.5
+Law,Research integrity,4.0,1,0.25
+Law,Responsible AI,6.0,1,0.16666666666666666
+Law,Risk management,6.0,1,0.16666666666666666
+Libraries,Museums,4.0,1,0.25
+Linguistics,Natural language processing,2.0,1,0.5
+Literary studies,Narratology,0.5,2,2.0
+Machine learning,Social sciences,2.0,1,0.5
+Medieval manuscripts,Metadata,2.0,1,0.5
+Memorization,Ontologies,1.0,2,1.0
+Multidisciplinary approach,Text,2.0,1,0.5
+Museums,Regulation,2.0,1,0.5
+Natural language processing,digital lexicography,1.2000000000000002,2,0.8333333333333333
+Peer review,Prompt injection,1.0,1,1.0
+Peer review,Scholarly publishing,1.0,1,1.0
+Philology,Philosophy,2.0,1,0.5
+Philosophy,Technological humanism,2.0,1,0.5
+Public administration,Regulation,2.0,1,0.5
+Regulation,Research integrity,4.0,1,0.25
+Regulation,Responsible AI,6.0,1,0.16666666666666666
+Regulation,Risk management,6.0,1,0.16666666666666666
+Research integrity,Risk management,2.0,1,0.5
+Responsible AI,Risk management,6.0,1,0.16666666666666666
